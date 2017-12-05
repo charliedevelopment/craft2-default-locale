@@ -14,11 +14,11 @@ See the flowcharts below which demonstrate what happens when requesting a page, 
 
 **Without a default locale**
 
-![Craft routing without Default Locale](./without-plugin.png)
+![Craft routing without Default Locale](.resources/diagram/without-plugin.png)
 
 **With a default locale**
 
-![Craft routing with Default Locale](./with-plugin.png)
+![Craft routing with Default Locale](.resources/diagram/with-plugin.png)
 
 ## Requirements
 

@@ -35,6 +35,11 @@ class DefaultLocalePlugin extends BasePlugin {
 	}
 
 	public function getVersion() {
+		return '1.0.1';
+	}
+
+	public function getSchemaVersion()
+	{
 		return '1.0.0';
 	}
 
@@ -54,8 +59,13 @@ class DefaultLocalePlugin extends BasePlugin {
 		return 'http://charliedev.com/';
 	}
 	
+	public function getDocumentationUrl()
+	{
+		return 'https://github.com/charliedevelopment/Craft2-Default-Locale/blob/master/README.md';
+	}
+	
 	public function getReleaseFeedUrl()
 	{
-		return 'https://raw.githubusercontent.com/charliedevelopment/Default-Locale/master/release.json'
+		return 'https://raw.githubusercontent.com/charliedevelopment/Craft2-Default-Locale/master/release.json';
 	}	
 }
