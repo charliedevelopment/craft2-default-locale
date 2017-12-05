@@ -1,7 +1,7 @@
 [
     {
         "version": "1.0.0",
-        "downloadUrl": "https://github.com/charliedevelopment/Default-Locale/archive/master.zip?1.0.0",
+        "downloadUrl": "https://github.com/charliedevelopment/Craft2-Default-Locale/archive/master.zip",
         "date": "2017-11-27T21:47:58+00:00",
         "notes": [
             "# Initial Release",
@@ -10,7 +10,7 @@
     },
     {
         "version": "1.0.1",
-        "downloadUrl": "https://github.com/charliedevelopment/Craft2-Default-Locale/archive/master.zip?1.0.0",
+        "downloadUrl": "https://github.com/charliedevelopment/Craft2-Default-Locale/archive/master.zip",
         "date": "2017-12-05T23:12:08+00:00",
         "notes": [
             "[Added] Documentation Link",
